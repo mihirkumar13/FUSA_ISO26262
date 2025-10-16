@@ -179,5 +179,5 @@ Phase	Inputs	Outputs
 		• Audit findings
 		• Safety case documentation
     
-<img width="641" height="4193" alt="image" src="https://github.com/user-attachments/assets/2db0828e-46aa-412f-b006-58682a32e62b" />
+
 
